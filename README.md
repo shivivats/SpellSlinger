@@ -50,7 +50,6 @@ After reading the tutorial, start the game and enjoy!
 
 
 
-
 # Screenshots
 
 #### Tutorial Screen
