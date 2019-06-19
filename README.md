@@ -53,7 +53,7 @@ After reading the tutorial, start the game and enjoy!
 # Screenshots
 
 #### Tutorial Screen
-![Tutorial Screen](https://github.com/shivivats/SpellSlinger/raw/master/Screenshots/ss1.png)
+![Tutorial Screen](https://github.com/shivivats/SpellSlinger/raw/master/Screenshots/screenshot1.png)
 
 #### Game with planes and UI
 ![Game with planes and UI](https://github.com/shivivats/SpellSlinger/raw/master/Screenshots/screenshot2.png)
