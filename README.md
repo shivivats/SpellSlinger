@@ -36,15 +36,7 @@ The aim is to earn a high score on the app, which is determined by how far the p
 
 Open the app, go through the start screen and the tutorial.
 
-The tutorial has the following text:
-
-When the game loads, move your phone around to scan the room.
-
-Click on a grid that the app scans to place the hut and start the game.
-
-Throw cards on the table next to the hut and bring the phone close to cast a spell.
-
-Start the game and enjoy!
+After reading the tutorial, start the game and enjoy!
 
 
 
