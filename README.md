@@ -12,39 +12,39 @@ Throw cards on the table next to the hut and bring the phone close to cast a spe
 
 ## Requirements to run the game:
 
-#### The player needs to have an ARCore compatible phone. The list of all compatible phones is given by Google [here](https://developers.google.com/ar/discover/supported-devices). Please check if your phone is in the list and meets the optional requirements (if any) before proceeding.
+The player needs to have an ARCore compatible phone. The list of all compatible phones is given by Google [here](https://developers.google.com/ar/discover/supported-devices). Please check if your phone is in the list and meets the optional requirements (if any) before proceeding.
 
 ## About the Game:
 
-#### Spell Slinger is an Augmented Reality game played on one single plane.
+Spell Slinger is an Augmented Reality game played on one single plane.
 
-#### The player taps on a plane to place a hut at that position and the game starts.
+The player taps on a plane to place a hut at that position and the game starts.
 
-#### The player needs to be careful not to let the plane out of the phone camera's sight once the game has started.
+The player needs to be careful not to let the plane out of the phone camera's sight once the game has started.
 
-#### Once the game starts, enemies start spawning and heading towards the hut in waves. The player needs to defend the hut using spells.
+Once the game starts, enemies start spawning and heading towards the hut in waves. The player needs to defend the hut using spells.
 
-#### The spells are spawned using physical markers provided with the app.
+The spells are spawned using physical markers provided with the app.
 
-#### The markers need to placed on the physical plane where the player wants to spawn the spell. The player then needs to scan them using the phone's camera. The markers need to be covering atleast 25% of the camera frame for them to be recognized.
+The markers need to placed on the physical plane where the player wants to spawn the spell. The player then needs to scan them using the phone's camera. The markers need to be covering atleast 25% of the camera frame for them to be recognized.
 
-#### The player has 3 spells at their disposal right now: a fire tornado that goes from enemy to enemy, a spikes spell that spawns and stays in place and a shield that spawns around the house.
+The player has 3 spells at their disposal right now: a fire tornado that goes from enemy to enemy, a spikes spell that spawns and stays in place and a shield that spawns around the house.
 
-#### The aim is to earn a high score on the app, which is determined by how far the player get in terms of waves.
+The aim is to earn a high score on the app, which is determined by how far the player get in terms of waves.
 
 ## How to use the app:
 
-#### Open the app, go through the start screen and the tutorial.
+Open the app, go through the start screen and the tutorial.
 
-#### The tutorial has the following text:
+The tutorial has the following text:
 
-#### When the game loads, move your phone around to scan the room.
+When the game loads, move your phone around to scan the room.
 
-#### Click on a grid that the app scans to place the hut and start the game.
+Click on a grid that the app scans to place the hut and start the game.
 
-#### Throw cards on the table next to the hut and bring the phone close to cast a spell.
+Throw cards on the table next to the hut and bring the phone close to cast a spell.
 
-#### Start the game and enjoy!
+Start the game and enjoy!
 
 
 
