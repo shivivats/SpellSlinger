@@ -1,6 +1,9 @@
 # SpellSlinger
 An augmented reality game made using Unity and Google ARCore for the Android platform.
 
+Made by: [Isabel Kuetemeyer](https://github.com/itsisa), [Mathew Sherry](https://github.com/FlyWolfe), [Thomas Rizzolli](https://github.com/Dr4g0nsoul) and [Shivi Vats](https://github.com/shivivats).
+
+
 When the game loads, move your phone around to scan the room.
 
 Click on a grid that the app scans to place the hut and start the game.
