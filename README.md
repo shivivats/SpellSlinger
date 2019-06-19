@@ -15,7 +15,7 @@ Go to this link: https://shivivats.github.io/SpellSlinger/
 
 OR
 
-Clone the whole project, open the index.html file in the "Documentation" folder.
+Clone the whole project, open the index.html file in the "docs" folder.
 
 # End User Guide
 
