@@ -7,7 +7,7 @@ Click on a grid that the app scans to place the hut and start the game.
 
 Throw cards on the table next to the hut and bring the phone close to cast a spell.
 
-#Documentation
+# Documentation
 
 Clone the whole project, open the index.html file in the "Documentation" folder.
 
