@@ -1,5 +1,5 @@
 # SpellSlinger
-An augmented reality game made using Unity and Google ARCore
+An augmented reality game made using Unity and Google ARCore for the Android platform.
 
 When the game loads, move your phone around to scan the room.
 
