@@ -9,6 +9,12 @@ Throw cards on the table next to the hut and bring the phone close to cast a spe
 
 # Documentation
 
+Two ways to view the documentation:
+
+Go to this link: https://shivivats.github.io/SpellSlinger/
+
+OR
+
 Clone the whole project, open the index.html file in the "Documentation" folder.
 
 # End User Guide
