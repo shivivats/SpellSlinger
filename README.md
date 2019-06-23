@@ -26,7 +26,7 @@ Clone the whole project, open the index.html file in the "docs" folder.
 
 The player needs to have an ARCore compatible phone. The list of all compatible phones is given by Google [here](https://developers.google.com/ar/discover/supported-devices). Please check if your phone is in the list and meets the optional requirements (if any) before proceeding.
 
-The player also needs to download the Marker.pdf file and print it out to use the markers to use as spells in-game.
+The player also needs to download the Marker.pdf file and print it out to use the markers as spells in-game.
 
 ## About the Game:
 
